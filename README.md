@@ -72,7 +72,7 @@ claims-eda-dashboard/
       data.py
       metrics.py
       app.py
-
+```
 ---
 
 # Setup
@@ -83,3 +83,12 @@ Clone the repository and install dependencies:
 git clone https://github.com/LukaCorrigan1888/claims-eda-dashboard.git
 cd claims-eda-dashboard
 uv sync
+```
+
+## Generate Data
+
+Running this notebook first will generate the data
+
+```text
+notebooks/01_generate_and_eda.ipynb
+```

@@ -92,3 +92,9 @@ Running this notebook first will generate the data
 ```text
 notebooks/01_generate_and_eda.ipynb
 ```
+
+## Run The Dashboard
+
+```bash
+uv run streamlit run src/claims_dashboard/app.py
+```

@@ -72,3 +72,14 @@ claims-eda-dashboard/
       data.py
       metrics.py
       app.py
+
+---
+
+# Setup
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/LukaCorrigan1888/claims-eda-dashboard.git
+cd claims-eda-dashboard
+uv sync
